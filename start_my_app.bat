@@ -1,3 +1,3 @@
 call my_virtual_env\Scripts\activate
-python main.py
+python app.py
 pause
